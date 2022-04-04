@@ -21,7 +21,9 @@ Supported sensors:
 ## Application installation
 
 Download the HIAAC.apk file and install it to your Android device.
-Use this adb command to install:
+**If you download it directly from your device, Android will automatically install it for you.**
+
+If you download from a computer, use the following adb command to install:
 ```
 adb install HIAAC.apk
 ```
